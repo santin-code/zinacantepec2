@@ -1,0 +1,17 @@
+.preference__container {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  transition: var(--transition);
+}
+
+.preference__container:hover {
+  margin-top: 12px;
+}
+
+.thanks__logo {
+  width: 100%;
+}
