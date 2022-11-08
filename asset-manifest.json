@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ac03c63.css",
+    "main.js": "/static/js/main.12b59dba.js",
+    "static/media/slide__freefire5.PNG": "/static/media/slide__freefire5.60670c668f59cbdf64ea.PNG",
+    "static/media/slide__freefire3.PNG": "/static/media/slide__freefire3.ce5943d8a6635d0184d0.PNG",
+    "static/media/slide__freefire4.PNG": "/static/media/slide__freefire4.d965654b17d09e5dc753.PNG",
+    "static/media/slide__freefire1.PNG": "/static/media/slide__freefire1.2249ca99bc8b0e8183e9.PNG",
+    "static/media/captura-diamantes.PNG": "/static/media/captura-diamantes.897357a50168f1317a16.PNG",
+    "static/media/slide__freefire2.PNG": "/static/media/slide__freefire2.061e9093fc87f4468fb7.PNG",
+    "static/media/captura-recargas.PNG": "/static/media/captura-recargas.3ca08bfd5cf373fe42b1.PNG",
+    "static/media/captura-servicios.PNG": "/static/media/captura-servicios.fb25c09c38d917dd0fc5.PNG",
+    "static/media/GRACIAS POR TU PREFERENCIA.png": "/static/media/GRACIAS POR TU PREFERENCIA.72743b876f67da7d0d48.png",
+    "static/media/titulo__impresiones2.png": "/static/media/titulo__impresiones2.0249dea9aa72ea7bedab.png",
+    "static/media/titulo__diamantes2.png": "/static/media/titulo__diamantes2.15e8c09f5149e16a5d91.png",
+    "static/media/titulo__recargas2.png": "/static/media/titulo__recargas2.a76f694192583c1f9261.png",
+    "static/media/titulo-servicios2.png": "/static/media/titulo-servicios2.ff9e0cb22d845d23d880.png",
+    "index.html": "/index.html",
+    "main.0ac03c63.css.map": "/static/css/main.0ac03c63.css.map",
+    "main.12b59dba.js.map": "/static/js/main.12b59dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac03c63.css",
+    "static/js/main.12b59dba.js"
+  ]
+}
